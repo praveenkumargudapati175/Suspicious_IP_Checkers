@@ -1,0 +1,17 @@
+# Sensitive - never commit API keys or passwords
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.venv/
+venv/
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
